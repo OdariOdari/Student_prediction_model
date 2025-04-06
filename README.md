@@ -2,6 +2,9 @@
 ## Overview
 A data-driven platform for personalized educational analytics.
 
+## Click here to try
+https://saugatodari-predictionmodel.streamlit.app/
+
 ## Features
 - Student performance tracking
 - Machine learning insights
